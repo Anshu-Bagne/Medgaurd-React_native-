@@ -64,8 +64,8 @@
 # OR for iOS
 npx react-native run-ios
 
-/medguard
-├── /assets           # Images and icons
+medguard
+├── /assets      # Images and icons
 ├── /components       # Reusable UI components
 ├── /screens          # All screens (Home, Reminders, Vault, etc.)
 ├── /services         # Firebase/Auth/API services
